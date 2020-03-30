@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/WinnetkaPaintWorks/static/css/main.a9b588af.chunk.css",
+    "main.js": "/WinnetkaPaintWorks/static/js/main.987e5817.chunk.js",
+    "main.js.map": "/WinnetkaPaintWorks/static/js/main.987e5817.chunk.js.map",
+    "runtime-main.js": "/WinnetkaPaintWorks/static/js/runtime-main.ff73edbb.js",
+    "runtime-main.js.map": "/WinnetkaPaintWorks/static/js/runtime-main.ff73edbb.js.map",
+    "static/js/2.07b935a9.chunk.js": "/WinnetkaPaintWorks/static/js/2.07b935a9.chunk.js",
+    "static/js/2.07b935a9.chunk.js.map": "/WinnetkaPaintWorks/static/js/2.07b935a9.chunk.js.map",
+    "index.html": "/WinnetkaPaintWorks/index.html",
+    "precache-manifest.214bae755d64a784829c3cbf2ba49587.js": "/WinnetkaPaintWorks/precache-manifest.214bae755d64a784829c3cbf2ba49587.js",
+    "service-worker.js": "/WinnetkaPaintWorks/service-worker.js",
+    "static/css/main.a9b588af.chunk.css.map": "/WinnetkaPaintWorks/static/css/main.a9b588af.chunk.css.map",
+    "static/js/2.07b935a9.chunk.js.LICENSE.txt": "/WinnetkaPaintWorks/static/js/2.07b935a9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff73edbb.js",
+    "static/js/2.07b935a9.chunk.js",
+    "static/css/main.a9b588af.chunk.css",
+    "static/js/main.987e5817.chunk.js"
+  ]
+}
