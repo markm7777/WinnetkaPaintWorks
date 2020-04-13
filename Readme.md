@@ -1,3 +1,4 @@
-#Winnetka Paint Works
+# Winnetka Paint Works
 
-##A simple drawing program. 
+## Just a simple drawing app.
+
