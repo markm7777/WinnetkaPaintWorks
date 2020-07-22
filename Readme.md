@@ -1,10 +1,12 @@
-# Winnetka Paint Works
+# WinnetkaPaintWorks
+Winnetka Paint Works
 
-## Just a simple drawing app.
+This is a very simple drawing/paint app built with React. 
+
+Client: create-react-app  
 
 Known issues:
 1. Drawing point not exactly aligned with mouse pointer.
 2. In 'bug mode', at wider line widths, rectangle drawing erases existing lines slightly more than is necessary.   
 
-Client: create-react-app 
 
